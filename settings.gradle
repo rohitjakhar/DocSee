@@ -1,0 +1,2 @@
+rootProject.name='DocSee'
+include ':app'
